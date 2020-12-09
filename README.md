@@ -1,3 +1,4 @@
+
 # Welcome to BTC Price overtime
 Install Stockstats for view RSI indicator
 
@@ -7,6 +8,8 @@ Install Stockstats for view RSI indicator
 - RSI overtime
 - BTC with RSI
 - BTC price in 2020
+
+![Price Overtime](https://zupimages.net/up/20/50/0pyr.png)
 
 # RSI descprition
 
