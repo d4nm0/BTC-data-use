@@ -3,6 +3,10 @@
 Install Stockstats for view RSI indicator
 
     pip install stockstats
+    pip install flask
+
+python index.py
+
 # graph
 - BTC prive overtime
 - RSI overtime
